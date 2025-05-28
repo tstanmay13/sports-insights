@@ -89,7 +89,8 @@ def main():
         # Prepare output data
         output_data = {
             'date': random_date,
-            'games': game_summaries
+            'games': game_summaries,
+            'execution_time': datetime.now().strftime('%Y-%m-%d %H:%M:%S')
         }
         
         # Save to JSON file

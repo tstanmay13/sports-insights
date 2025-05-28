@@ -21,7 +21,6 @@ jobs:
       uses: actions/checkout@v4
       with:
         fetch-depth: 0  # Fetch all history for proper versioning
-        token: ${{ secrets.GH_TOKEN }}  # Use GitHub token for authentication
     
     # Set up Python environment
     - name: Set up Python 3.10
@@ -37,7 +36,7 @@ jobs:
         
     # Run the update script
     - name: Run sports data update script
-      run: python src/update_script.py
+      run: python src/fetch_nba_data.py
         
     # Commit and push any changes
     - name: Commit and push changes
@@ -56,4 +55,6 @@ jobs:
         git pull --rebase
         
         # Push changes to main branch
-        git push 
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 

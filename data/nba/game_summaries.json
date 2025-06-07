@@ -1,15 +1,63 @@
 {
-  "date": "2024-03-15",
+  "date": "2024-03-16",
   "games": [
     {
-      "game_id": 1038553,
-      "date": "2024-03-15",
+      "game_id": 1038559,
+      "date": "2024-03-16",
       "home_team": {
-        "name": "Charlotte Hornets",
-        "score": 96
+        "name": "Houston Rockets",
+        "score": 117
       },
       "visitor_team": {
-        "name": "Phoenix Suns",
+        "name": "Cleveland Cavaliers",
+        "score": 103
+      },
+      "status": "Final",
+      "season": 2023,
+      "period": 4,
+      "time": "Final"
+    },
+    {
+      "game_id": 1038560,
+      "date": "2024-03-16",
+      "home_team": {
+        "name": "Indiana Pacers",
+        "score": 121
+      },
+      "visitor_team": {
+        "name": "Brooklyn Nets",
+        "score": 100
+      },
+      "status": "Final",
+      "season": 2023,
+      "period": 4,
+      "time": "Final"
+    },
+    {
+      "game_id": 1038561,
+      "date": "2024-03-16",
+      "home_team": {
+        "name": "Philadelphia 76ers",
+        "score": 109
+      },
+      "visitor_team": {
+        "name": "Charlotte Hornets",
+        "score": 98
+      },
+      "status": "Final",
+      "season": 2023,
+      "period": 4,
+      "time": "Final"
+    },
+    {
+      "game_id": 1038562,
+      "date": "2024-03-16",
+      "home_team": {
+        "name": "New Orleans Pelicans",
+        "score": 126
+      },
+      "visitor_team": {
+        "name": "Portland Trail Blazers",
         "score": 107
       },
       "status": "Final",
@@ -18,47 +66,15 @@
       "time": "Final"
     },
     {
-      "game_id": 1038554,
-      "date": "2024-03-15",
+      "game_id": 1038564,
+      "date": "2024-03-16",
       "home_team": {
-        "name": "Detroit Pistons",
-        "score": 95
-      },
-      "visitor_team": {
-        "name": "Miami Heat",
-        "score": 108
-      },
-      "status": "Final",
-      "season": 2023,
-      "period": 4,
-      "time": "Final"
-    },
-    {
-      "game_id": 1038555,
-      "date": "2024-03-15",
-      "home_team": {
-        "name": "Toronto Raptors",
-        "score": 103
-      },
-      "visitor_team": {
-        "name": "Orlando Magic",
-        "score": 113
-      },
-      "status": "Final",
-      "season": 2023,
-      "period": 4,
-      "time": "Final"
-    },
-    {
-      "game_id": 1038556,
-      "date": "2024-03-15",
-      "home_team": {
-        "name": "New Orleans Pelicans",
+        "name": "Memphis Grizzlies",
         "score": 112
       },
       "visitor_team": {
-        "name": "LA Clippers",
-        "score": 104
+        "name": "Oklahoma City Thunder",
+        "score": 118
       },
       "status": "Final",
       "season": 2023,
@@ -66,15 +82,15 @@
       "time": "Final"
     },
     {
-      "game_id": 1038557,
-      "date": "2024-03-15",
+      "game_id": 1038565,
+      "date": "2024-03-16",
       "home_team": {
-        "name": "San Antonio Spurs",
-        "score": 106
+        "name": "Los Angeles Lakers",
+        "score": 121
       },
       "visitor_team": {
-        "name": "Denver Nuggets",
-        "score": 117
+        "name": "Golden State Warriors",
+        "score": 128
       },
       "status": "Final",
       "season": 2023,
@@ -82,15 +98,47 @@
       "time": "Final"
     },
     {
-      "game_id": 1038558,
-      "date": "2024-03-15",
+      "game_id": 1038567,
+      "date": "2024-03-16",
+      "home_team": {
+        "name": "Sacramento Kings",
+        "score": 91
+      },
+      "visitor_team": {
+        "name": "New York Knicks",
+        "score": 98
+      },
+      "status": "Final",
+      "season": 2023,
+      "period": 4,
+      "time": "Final"
+    },
+    {
+      "game_id": 1038563,
+      "date": "2024-03-16",
+      "home_team": {
+        "name": "Chicago Bulls",
+        "score": 127
+      },
+      "visitor_team": {
+        "name": "Washington Wizards",
+        "score": 98
+      },
+      "status": "Final",
+      "season": 2023,
+      "period": 4,
+      "time": "Final"
+    },
+    {
+      "game_id": 1038566,
+      "date": "2024-03-16",
       "home_team": {
         "name": "Utah Jazz",
-        "score": 124
+        "score": 100
       },
       "visitor_team": {
-        "name": "Atlanta Hawks",
-        "score": 122
+        "name": "Minnesota Timberwolves",
+        "score": 119
       },
       "status": "Final",
       "season": 2023,
@@ -98,5 +146,5 @@
       "time": "Final"
     }
   ],
-  "execution_time": "2025-06-04 21:07:09"
+  "execution_time": "2025-06-07 00:43:05"
 }

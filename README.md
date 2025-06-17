@@ -60,19 +60,7 @@ The saved JSON file contains:
 ## Dependencies
 
 - Python 3.8+
-- requests
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- plotly
-- pyyaml
-- python-dotenv
-- beautifulsoup4
-- lxml
-- tqdm
-- pytz
-
+  
 ## License
 
 MIT License

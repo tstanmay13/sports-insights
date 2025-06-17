@@ -20,9 +20,9 @@ jobs:
       - name: Check if we should run
         id: check
         run: |
-          # Generate random number between 1 and 168 (hours in a week)
-          # We want more frequent runs, so we'll use a probability of ~10%
-          if [ $((RANDOM % 10)) -eq 0 ]; then
+          # Generate random number between 1 and 100
+          # We want truly random runs, so we'll use a probability of ~5%
+          if [ $((RANDOM % 20)) -eq 0 ]; then
             echo "should_execute=true" >> $GITHUB_OUTPUT
           else
             echo "should_execute=false" >> $GITHUB_OUTPUT

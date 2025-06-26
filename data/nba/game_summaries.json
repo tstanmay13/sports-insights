@@ -1,16 +1,16 @@
 {
-  "date": "2023-10-24",
+  "date": "2024-01-16",
   "games": [
     {
-      "game_id": 1037594,
-      "date": "2023-10-24",
+      "game_id": 1038160,
+      "date": "2024-01-16",
       "home_team": {
-        "name": "Golden State Warriors",
-        "score": 104
+        "name": "LA Clippers",
+        "score": 128
       },
       "visitor_team": {
-        "name": "Phoenix Suns",
-        "score": 108
+        "name": "Oklahoma City Thunder",
+        "score": 117
       },
       "status": "Final",
       "season": 2023,
@@ -18,15 +18,31 @@
       "time": "Final"
     },
     {
-      "game_id": 1037593,
-      "date": "2023-10-24",
+      "game_id": 1038159,
+      "date": "2024-01-16",
       "home_team": {
-        "name": "Denver Nuggets",
+        "name": "Phoenix Suns",
         "score": 119
       },
       "visitor_team": {
-        "name": "Los Angeles Lakers",
-        "score": 107
+        "name": "Sacramento Kings",
+        "score": 117
+      },
+      "status": "Final",
+      "season": 2023,
+      "period": 4,
+      "time": "Final"
+    },
+    {
+      "game_id": 1038158,
+      "date": "2024-01-16",
+      "home_team": {
+        "name": "Philadelphia 76ers",
+        "score": 126
+      },
+      "visitor_team": {
+        "name": "Denver Nuggets",
+        "score": 121
       },
       "status": "Final",
       "season": 2023,
@@ -34,5 +50,5 @@
       "time": "Final"
     }
   ],
-  "execution_time": "2025-06-26 00:44:15"
+  "execution_time": "2025-06-26 08:13:18"
 }

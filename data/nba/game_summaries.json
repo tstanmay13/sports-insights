@@ -1,16 +1,16 @@
 {
-  "date": "2023-11-04",
+  "date": "2023-11-18",
   "games": [
     {
-      "game_id": 1037671,
-      "date": "2023-11-04",
+      "game_id": 1037771,
+      "date": "2023-11-18",
       "home_team": {
-        "name": "Philadelphia 76ers",
-        "score": 112
+        "name": "Charlotte Hornets",
+        "score": 108
       },
       "visitor_team": {
-        "name": "Phoenix Suns",
-        "score": 100
+        "name": "New York Knicks",
+        "score": 122
       },
       "status": "Final",
       "season": 2023,
@@ -18,95 +18,15 @@
       "time": "Final"
     },
     {
-      "game_id": 1037673,
-      "date": "2023-11-04",
+      "game_id": 1037772,
+      "date": "2023-11-18",
       "home_team": {
-        "name": "Orlando Magic",
+        "name": "New Orleans Pelicans",
         "score": 120
       },
       "visitor_team": {
-        "name": "Los Angeles Lakers",
-        "score": 101
-      },
-      "status": "Final",
-      "season": 2023,
-      "period": 4,
-      "time": "Final"
-    },
-    {
-      "game_id": 1037676,
-      "date": "2023-11-04",
-      "home_team": {
-        "name": "Houston Rockets",
-        "score": 107
-      },
-      "visitor_team": {
-        "name": "Sacramento Kings",
-        "score": 89
-      },
-      "status": "Final",
-      "season": 2023,
-      "period": 4,
-      "time": "Final"
-    },
-    {
-      "game_id": 1037675,
-      "date": "2023-11-04",
-      "home_team": {
-        "name": "Brooklyn Nets",
-        "score": 114
-      },
-      "visitor_team": {
-        "name": "Boston Celtics",
-        "score": 124
-      },
-      "status": "Final",
-      "season": 2023,
-      "period": 4,
-      "time": "Final"
-    },
-    {
-      "game_id": 1037674,
-      "date": "2023-11-04",
-      "home_team": {
-        "name": "New Orleans Pelicans",
-        "score": 105
-      },
-      "visitor_team": {
-        "name": "Atlanta Hawks",
-        "score": 123
-      },
-      "status": "Final",
-      "season": 2023,
-      "period": 4,
-      "time": "Final"
-    },
-    {
-      "game_id": 1037678,
-      "date": "2023-11-04",
-      "home_team": {
-        "name": "Denver Nuggets",
-        "score": 123
-      },
-      "visitor_team": {
-        "name": "Chicago Bulls",
-        "score": 101
-      },
-      "status": "Final",
-      "season": 2023,
-      "period": 4,
-      "time": "Final"
-    },
-    {
-      "game_id": 1037677,
-      "date": "2023-11-04",
-      "home_team": {
         "name": "Minnesota Timberwolves",
-        "score": 123
-      },
-      "visitor_team": {
-        "name": "Utah Jazz",
-        "score": 95
+        "score": 121
       },
       "status": "Final",
       "season": 2023,
@@ -114,21 +34,69 @@
       "time": "Final"
     },
     {
-      "game_id": 1037672,
-      "date": "2023-11-04",
+      "game_id": 1037775,
+      "date": "2023-11-18",
       "home_team": {
-        "name": "Indiana Pacers",
-        "score": 124
+        "name": "San Antonio Spurs",
+        "score": 108
       },
       "visitor_team": {
-        "name": "Charlotte Hornets",
+        "name": "Memphis Grizzlies",
+        "score": 120
+      },
+      "status": "Final",
+      "season": 2023,
+      "period": 4,
+      "time": "Final"
+    },
+    {
+      "game_id": 1037774,
+      "date": "2023-11-18",
+      "home_team": {
+        "name": "Milwaukee Bucks",
+        "score": 132
+      },
+      "visitor_team": {
+        "name": "Dallas Mavericks",
         "score": 125
       },
       "status": "Final",
       "season": 2023,
       "period": 4,
       "time": "Final"
+    },
+    {
+      "game_id": 1037773,
+      "date": "2023-11-18",
+      "home_team": {
+        "name": "Chicago Bulls",
+        "score": 102
+      },
+      "visitor_team": {
+        "name": "Miami Heat",
+        "score": 97
+      },
+      "status": "Final",
+      "season": 2023,
+      "period": 4,
+      "time": "Final"
+    },
+    {
+      "game_id": 1037776,
+      "date": "2023-11-18",
+      "home_team": {
+        "name": "Golden State Warriors",
+        "score": 123
+      },
+      "visitor_team": {
+        "name": "Oklahoma City Thunder",
+        "score": 130
+      },
+      "status": "Final",
+      "season": 2023,
+      "period": 5,
+      "time": "Final"
     }
   ],
-  "execution_time": "2025-09-03 23:08:05"
+  "execution_time": "2025-09-04 02:12:47"
 }

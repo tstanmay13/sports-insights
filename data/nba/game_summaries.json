@@ -1,112 +1,16 @@
 {
-  "date": "2024-03-25",
+  "date": "2024-01-04",
   "games": [
     {
-      "game_id": 1038625,
-      "date": "2024-03-25",
-      "home_team": {
-        "name": "Cleveland Cavaliers",
-        "score": 115
-      },
-      "visitor_team": {
-        "name": "Charlotte Hornets",
-        "score": 92
-      },
-      "status": "Final",
-      "season": 2023,
-      "period": 4,
-      "time": "Final"
-    },
-    {
-      "game_id": 1038626,
-      "date": "2024-03-25",
-      "home_team": {
-        "name": "Atlanta Hawks",
-        "score": 120
-      },
-      "visitor_team": {
-        "name": "Boston Celtics",
-        "score": 118
-      },
-      "status": "Final",
-      "season": 2023,
-      "period": 4,
-      "time": "Final"
-    },
-    {
-      "game_id": 1038627,
-      "date": "2024-03-25",
-      "home_team": {
-        "name": "New York Knicks",
-        "score": 124
-      },
-      "visitor_team": {
-        "name": "Detroit Pistons",
-        "score": 99
-      },
-      "status": "Final",
-      "season": 2023,
-      "period": 4,
-      "time": "Final"
-    },
-    {
-      "game_id": 1038628,
-      "date": "2024-03-25",
-      "home_team": {
-        "name": "Toronto Raptors",
-        "score": 88
-      },
-      "visitor_team": {
-        "name": "Brooklyn Nets",
-        "score": 96
-      },
-      "status": "Final",
-      "season": 2023,
-      "period": 4,
-      "time": "Final"
-    },
-    {
-      "game_id": 1038629,
-      "date": "2024-03-25",
-      "home_team": {
-        "name": "Chicago Bulls",
-        "score": 105
-      },
-      "visitor_team": {
-        "name": "Washington Wizards",
-        "score": 107
-      },
-      "status": "Final",
-      "season": 2023,
-      "period": 4,
-      "time": "Final"
-    },
-    {
-      "game_id": 1038630,
-      "date": "2024-03-25",
-      "home_team": {
-        "name": "Houston Rockets",
-        "score": 110
-      },
-      "visitor_team": {
-        "name": "Portland Trail Blazers",
-        "score": 92
-      },
-      "status": "Final",
-      "season": 2023,
-      "period": 4,
-      "time": "Final"
-    },
-    {
-      "game_id": 1038631,
-      "date": "2024-03-25",
+      "game_id": 1038069,
+      "date": "2024-01-04",
       "home_team": {
         "name": "San Antonio Spurs",
-        "score": 104
+        "score": 121
       },
       "visitor_team": {
-        "name": "Phoenix Suns",
-        "score": 102
+        "name": "Milwaukee Bucks",
+        "score": 125
       },
       "status": "Final",
       "season": 2023,
@@ -114,63 +18,15 @@
       "time": "Final"
     },
     {
-      "game_id": 1038632,
-      "date": "2024-03-25",
+      "game_id": 1038070,
+      "date": "2024-01-04",
       "home_team": {
+        "name": "Golden State Warriors",
+        "score": 127
+      },
+      "visitor_team": {
         "name": "Denver Nuggets",
-        "score": 128
-      },
-      "visitor_team": {
-        "name": "Memphis Grizzlies",
-        "score": 103
-      },
-      "status": "Final",
-      "season": 2023,
-      "period": 4,
-      "time": "Final"
-    },
-    {
-      "game_id": 1038633,
-      "date": "2024-03-25",
-      "home_team": {
-        "name": "Utah Jazz",
-        "score": 105
-      },
-      "visitor_team": {
-        "name": "Dallas Mavericks",
-        "score": 115
-      },
-      "status": "Final",
-      "season": 2023,
-      "period": 4,
-      "time": "Final"
-    },
-    {
-      "game_id": 1038634,
-      "date": "2024-03-25",
-      "home_team": {
-        "name": "Sacramento Kings",
-        "score": 108
-      },
-      "visitor_team": {
-        "name": "Philadelphia 76ers",
-        "score": 96
-      },
-      "status": "Final",
-      "season": 2023,
-      "period": 4,
-      "time": "Final"
-    },
-    {
-      "game_id": 1038635,
-      "date": "2024-03-25",
-      "home_team": {
-        "name": "LA Clippers",
-        "score": 116
-      },
-      "visitor_team": {
-        "name": "Indiana Pacers",
-        "score": 133
+        "score": 130
       },
       "status": "Final",
       "season": 2023,
@@ -178,5 +34,5 @@
       "time": "Final"
     }
   ],
-  "execution_time": "2025-11-10 12:17:38"
+  "execution_time": "2025-11-11 21:07:59"
 }

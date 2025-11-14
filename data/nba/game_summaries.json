@@ -1,48 +1,32 @@
 {
-  "date": "2024-02-24",
+  "date": "2024-03-28",
   "games": [
     {
-      "game_id": 1038406,
-      "date": "2024-02-24",
+      "game_id": 1038652,
+      "date": "2024-03-28",
       "home_team": {
-        "name": "Detroit Pistons",
-        "score": 109
-      },
-      "visitor_team": {
-        "name": "Orlando Magic",
-        "score": 112
-      },
-      "status": "Final",
-      "season": 2023,
-      "period": 4,
-      "time": "Final"
-    },
-    {
-      "game_id": 1038407,
-      "date": "2024-02-24",
-      "home_team": {
-        "name": "Minnesota Timberwolves",
-        "score": 101
-      },
-      "visitor_team": {
-        "name": "Brooklyn Nets",
-        "score": 86
-      },
-      "status": "Final",
-      "season": 2023,
-      "period": 4,
-      "time": "Final"
-    },
-    {
-      "game_id": 1038408,
-      "date": "2024-02-24",
-      "home_team": {
-        "name": "New York Knicks",
-        "score": 102
+        "name": "Atlanta Hawks",
+        "score": 123
       },
       "visitor_team": {
         "name": "Boston Celtics",
-        "score": 116
+        "score": 122
+      },
+      "status": "Final",
+      "season": 2023,
+      "period": 5,
+      "time": "Final"
+    },
+    {
+      "game_id": 1038653,
+      "date": "2024-03-28",
+      "home_team": {
+        "name": "New Orleans Pelicans",
+        "score": 107
+      },
+      "visitor_team": {
+        "name": "Milwaukee Bucks",
+        "score": 100
       },
       "status": "Final",
       "season": 2023,
@@ -50,5 +34,5 @@
       "time": "Final"
     }
   ],
-  "execution_time": "2025-11-12 02:24:56"
+  "execution_time": "2025-11-14 03:38:42"
 }
